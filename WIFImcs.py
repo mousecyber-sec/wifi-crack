@@ -3,7 +3,6 @@
 #MOKAD LU BABI
 
 clear
-sleep 0.1
 termux-setup-storage
 clear
 termux-setup-storage
